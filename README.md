@@ -106,8 +106,4 @@ Flask-SQLAlchemy
 Flask-JWT-Extended
 ```
 
-## License
-This project is licensed under the MIT License. See the `LICENSE` file for details.
 
-## Contributing
-Contributions are welcome! Please create an issue or pull request for any changes or suggestions.
